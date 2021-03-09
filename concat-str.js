@@ -1,0 +1,1 @@
+const concatStr = (n,m) => { return `${n}${m}` }
